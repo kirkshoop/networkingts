@@ -1,4 +1,4 @@
-// c++ -std=c++14 -I ../networking-ts-impl-master/include/ -I ~/source/rxcpp/Rx/v2/src/ rx.cpp
+// c++ -std=c++14 -I ../networking-ts-impl-master/include/ -I ../rxcpp-master/ rx.cpp
 
 #include <experimental/net>
 #include <string>
